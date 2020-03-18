@@ -1,0 +1,22 @@
+{
+  "name": "bruteforce-nodejs",
+  "version": "1.0.0",
+  "description": "for brute forceing websites login page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemxz/bruteforce-nodejs.git"
+  },
+  "author": "jemxz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemxz/bruteforce-nodejs/issues"
+  },
+  "homepage": "https://github.com/jemxz/bruteforce-nodejs#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
